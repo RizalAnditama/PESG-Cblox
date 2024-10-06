@@ -1,0 +1,44 @@
+[
+    {
+        "isStoryTelling": true,
+        "speaker": "Narrator",
+        "message": "Komodo Island, once majestic with its giant dragons and natural treasures, now faces a major crisis in 2025. ",
+        "options": {}
+    },
+    {
+        "isStoryTelling": true,
+        "speaker": "Narrator",
+        "message": "Massive corporate exploitation is destroying the fragile ecosystem, while the voices of local Komodonians are being ignored. ",
+        "options": {}
+    },
+    {
+        "isStoryTelling": true,
+        "speaker": "Narrator",
+        "message": "This is accelerating the destruction of the ecosystem, and on the horizon, the threat is becoming more and more real. ",
+        "options": {}
+    },
+    {
+        "isStoryTelling": true,
+        "speaker": "Narrator",
+        "message": "Sea level pollution, industrial overdevelopment and habitat loss will force residents to leave their islands. ",
+        "options": {}
+    },
+    {
+        "isStoryTelling": true,
+        "speaker": "Narrator",
+        "message": "However, there is still hope for those who dare to fight before it's too late.",
+        "options": {}
+    },
+    {
+        "isStoryTelling": true,
+        "speaker": null,
+        "message": "",
+        "options": {}
+    },
+    {
+        "isStoryTelling": true,
+        "speaker": null,
+        "message": "",
+        "options": {}
+    }
+]

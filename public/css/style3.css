@@ -1,0 +1,15 @@
+
+        body {
+            background-color: #405299;
+            font-family: Arial, sans-serif;
+            display: flex;
+            
+            
+            min-height: 100vh;
+            margin: 0;
+        }
+
+       
+        .button-container {
+            margin-top: 10px; /* menambahkan spasi di atas tombol */
+        }
